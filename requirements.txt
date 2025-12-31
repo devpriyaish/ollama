@@ -1,0 +1,42 @@
+# FastAPI Backend
+fastapi
+uvicorn[standard]
+python-multipart
+pydantic
+
+# Streamlit Frontend
+streamlit
+
+# HTTP Client
+requests
+
+# Environment Config
+python-dotenv
+
+# LangChain Ecosystem
+langchain
+langchain-core
+langchain-community
+langchain-openai
+langchain-ollama
+langchain-text-splitters
+
+# LangGraph Ecosystem
+langgraph
+langgraph-checkpoint
+langgraph-checkpoint-sqlite
+
+# Embeddings + Vector DB
+faiss-cpu
+
+# Azure OpenAI Support
+openai
+azure-core
+azure-identity
+
+# PDF Processing
+pypdf
+pymupdf
+
+# Search Tools
+duckduckgo-search
